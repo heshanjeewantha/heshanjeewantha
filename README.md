@@ -1,3 +1,4 @@
+# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 <h1 align="center">Hi 👋, I'm Heshan Jeewantha</h1>
 
 <h3 align="center">Software engeneering undgrauate from Srilanka</h3>
@@ -22,19 +23,12 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshanjeewantha" alt="heshanjeewantha" /></a> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshanjeewantha&show_icons=true&locale=en&layout=compact" alt="heshanjeewantha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heshanjeewantha&show_icons=true&locale=en" alt="heshanjeewantha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewantha&" alt="heshanjeewantha" /></p><be>
 
 ### Here's my github README stats:
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=heshanjeewantha&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewanthatheme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewantha&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=heshanjeewantha)](https://github.com/ryo-ma/github-profile-trophy)
 
  
