@@ -2,7 +2,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">👋, I'm Heshan Jeewantha</h1>
 
-<h3 align="center">Software engeneering undgrauate from Srilanka</h3>
+<h3 align="center">Software engeneering undergrauate from Srilanka</h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
 
 ---
@@ -33,7 +33,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/heshan-jeewantha-83a707289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heshan-jeewantha-83a707289/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/hey____shan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hey____shan/" height="30" width="40" /></a>
 </p>
+
 ---
+
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
