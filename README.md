@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heshan Jeewantha</h1>
 <h3 align="center">A passionate Full stack developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshanjeewantha" alt="heshanjeewantha" /></a> </p>
 
 - 🌱 I’m currently learning **Mern Stack,Python,Kotlin**
 
@@ -12,6 +9,11 @@
 - 📫 How to reach me **heshanjeewantha@gmail.com**
 
 - ⚡ Fun fact **call me as Hesh**
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshanjeewantha" alt="heshanjeewantha" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
