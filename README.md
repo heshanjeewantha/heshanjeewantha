@@ -1,5 +1,5 @@
 # Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
-<h1 align="center">Hi 👋, I'm Heshan Jeewantha</h1>
+<h1 align="center">👋, I'm Heshan Jeewantha</h1>
 
 <h3 align="center">Software engeneering undgrauate from Srilanka</h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
@@ -12,7 +12,13 @@
 - 📫 How to reach me **heshanjeewantha@gmail.com**
 
 - ⚡ Fun fact **call me as Hesh**
-
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
 
 
 
