@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heshan Jeewantha</h1>
 
 <h3 align="center">Software engeneering undgrauate from Srilanka</h3>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
 
 ---
 - 🌱 I’m currently learning **Mern Stack,Python,Kotlin**
