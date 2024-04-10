@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heshan Jeewantha</h1>
-<h3 align="center">A passionate Full stack developer from Srilanka</h3>
+
+<h3 align="center">Software engeneering undgrauate from Srilanka</h3>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
 
 
 - 🌱 I’m currently learning **Mern Stack,Python,Kotlin**
@@ -18,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/heshan-jeewantha-83a707289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heshan-jeewantha-83a707289/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/hey____shan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hey____shan/" height="30" width="40" /></a>
 </p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshanjeewantha" alt="heshanjeewantha" /></a> </p>
 
