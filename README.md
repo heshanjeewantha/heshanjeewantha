@@ -5,7 +5,7 @@
 
 <h3 align="center">Software engeneering undergrauate from Srilanka</h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
----
+
 
 <div align="center">
     <picture align="center">
@@ -36,7 +36,7 @@
   </td>
 </tr>
 </table>
----
+
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
