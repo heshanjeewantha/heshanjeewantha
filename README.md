@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **MERN Stack**, **DevOps**, and **Cloud Engineering**
+- 🌱 Currently learning **software engineering**, **DevOps**, and **Cloud Engineering**
 - 💬 Ask me about **Java, React, Spring Boot, Laravel, DevOps tools**
 - 📫 Reach me at **heshanjeewantha@gmail.com**
 - ⚡ Fun fact: **Call me Hesh!**
@@ -100,7 +100,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 
 
 <div align="center">
   <picture>
