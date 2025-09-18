@@ -88,12 +88,12 @@
 <table align="center">
 <tr>
   <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=heshanjeewantha&theme=radical&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=heshanjeewantha&theme=radical&show_icons=true&count_private=true&cache_seconds=86400" />
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewantha&theme=radical&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewantha&theme=radical&hide_border=false&cache_seconds=86400" />
   </td>
   <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanjeewantha&theme=radical&layout=compact&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanjeewantha&theme=radical&layout=compact&langs_count=10&cache_seconds=86400" />
   </td>
 </tr>
 </table>
