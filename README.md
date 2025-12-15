@@ -87,9 +87,10 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=heshanjeewantha&theme=radical&show_icons=true&include_all_commits=true" 
-    alt="Heshan's GitHub Stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heshanjeewantha&theme=radical" 
+    alt="Heshan's PR & Issues Stats" 
   />
+</div>
   <br><br>
 
   <img 
