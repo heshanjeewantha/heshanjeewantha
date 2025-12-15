@@ -86,11 +86,22 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshanjeewantha&theme=radical&show_icons=true&count_private=true&cache_seconds=86400" alt="Heshan's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=heshanjeewantha&theme=radical&show_icons=true&include_all_commits=true" 
+    alt="Heshan's GitHub Stats" 
+  />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewantha&theme=radical&hide_border=false&cache_seconds=86400" alt="Heshan's GitHub Streak" />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=heshanjeewantha&theme=radical" 
+    alt="Heshan's GitHub Streak" 
+  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanjeewantha&theme=radical&layout=compact&langs_count=10&cache_seconds=86400" alt="Heshan's Top Languages" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanjeewantha&theme=radical&layout=compact&langs_count=10" 
+    alt="Heshan's Top Languages" 
+  />
 </div>
 
 ---
